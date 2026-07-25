@@ -67,4 +67,3 @@ rag-pdf-chat/
 ## License
 
 MIT — see [LICENSE](LICENSE).
-
